@@ -69,6 +69,11 @@ line-height: 2.5;
     color: #ddd;
 }
 
+.navbar a:active{
+    border-buttom:4px #ff0 solid;
+    color: #ddd;
+}
+
 button:hover{
     color: red;
     background-color: yellow;
